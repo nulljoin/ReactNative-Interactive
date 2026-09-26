@@ -81,15 +81,6 @@ TextInput and Icon is fully customizable thanks to `prop-drilling`, you can use 
 - [x] ~~LICENSE~~
 - [ ] Write an article about the lib on Medium
 
-## Credits
-
-Example mobile design is heavily inspired by [Firman Praadita](https://dribbble.com/shots/14944967-On-Boarding-Money-Management-App/attachments/6661899?mode=media)
-Thank you so much for this inspiration :)
-
-## Author
-
-FreakyCoder, kurayogun@gmail.com
-
 ## License
 
 React Native Text Input Interactive is available under the MIT license. See the LICENSE file for more info.
